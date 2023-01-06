@@ -1,6 +1,3 @@
 print('Hi..Yaswanth Prabhu.!')
 print('Good Afternoon,')
 print('Have a Good Day.')
-print('..')
-print('yaswanth')
-print('prabhu')
